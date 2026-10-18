@@ -1,0 +1,42 @@
+# Blender 4.5.2 LTS MTL File: 'Character_Mint_Fantôme_Rig.blend'
+# www.blender.org
+
+newmtl Materia_Doki_1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd D:/Blender/Modelos/Vtubers/Doki/Textura/Texturas Doki 1.png
+map_d D:/Blender/Modelos/Vtubers/Doki/Textura/Texturas Doki 1.png
+
+newmtl Mint_Mouth
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd Textures/Mint_Mouth/Mint_Mouth_ (1).png
+map_d Textures/Mint_Mouth/Mint_Mouth_ (1).png
+
+newmtl Mint_eyes
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd Textures/Mint_Eyes/Mint_eyes_ (1).png
+map_d Textures/Mint_Eyes/Mint_eyes_ (1).png
+
+newmtl Minth_Texture
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 2
+map_Kd Textures/Mint_Texture.png
+map_d Textures/Mint_Texture.png
